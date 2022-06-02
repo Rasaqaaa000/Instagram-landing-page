@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    margin-top: 40px;
+    background: rgba(192, 192, 192, 0.1)
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+
+}
+
+.login-container {
+    margin-left: 30px;
+}
+
+#login-box {
+    border: solid 1px rgba(128, 128, 128, 0.3);
+    background: white;
+    padding-bottom: 20px;
+
+}
+
+#instagram {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+form {}
+
+#login {
+    padding-bottom: 0;
+    background: skyblue;
+    border-radius: 5px;
+    width: 100px;
+}
+
+#forgot-password {
+    font-size: small;
+}
+
+#sign-up {
+    border: solid 1px rgba(128, 128, 128, 0.3);
+    background: white;
+    padding: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    color: gray;
+    justify-content: space-between;
+}
+
+footer a {
+    color: gray;
+}
